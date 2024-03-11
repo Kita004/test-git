@@ -1,1 +1,15 @@
-step 8
+List of commands used in assignment:
+mkdir, 
+cd, 
+git init
+touch, 
+git add <filename>, 
+git commit -m <message>
+git push
+git checkout -b branch1
+git status
+git checkout main
+git merge branch1
+git push origin --delete branch1
+git branch -d branch1
+git pull
